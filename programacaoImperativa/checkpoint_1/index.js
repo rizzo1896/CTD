@@ -40,3 +40,8 @@ function micro(op, sec) {
 }
 
 micro(1, 10);
+micro(2, 10);
+micro(3, 10);
+micro(4, 10);
+micro(5, 10);
+micro(9, 10);
