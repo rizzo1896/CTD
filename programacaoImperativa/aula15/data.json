@@ -1,0 +1,45 @@
+{
+  "data": [
+    { "A": "numero", "B": "tipo", "C": "saldo", "D": "titular" },
+    {
+      "A": 5486273622,
+      "B": "Conta Corrente",
+      "C": 27771,
+      "D": "Abigael Natte"
+    },
+    { "A": 1183971869, "B": "Conta Poupança", "C": 8675, "D": "Ramon Connell" },
+    {
+      "A": 9582019689,
+      "B": "Conta Poupança",
+      "C": 27363,
+      "D": "Jarret Lafuente"
+    },
+    { "A": 1761924656, "B": "Conta Poupança", "C": 32415, "D": "Ansel Ardley" },
+    {
+      "A": 7401971607,
+      "B": "Conta Poupança",
+      "C": 18789,
+      "D": "Jacki Shurmer"
+    },
+    { "A": 630841470, "B": "Conta Corrente", "C": 28776, "D": "Jobi Mawtus" },
+    {
+      "A": 4223508636,
+      "B": "Conta Corrente",
+      "C": 2177,
+      "D": "Thomasin Latour"
+    },
+    {
+      "A": 185979521,
+      "B": "Conta Poupança",
+      "C": 25994,
+      "D": "Lonnie Verheijden"
+    },
+    { "A": 3151956165, "B": "Conta Corrente", "C": 7601, "D": "Alonso Wannan" },
+    {
+      "A": 2138105881,
+      "B": "Conta Poupança",
+      "C": 33196,
+      "D": "Bendite Huggett"
+    }
+  ]
+}

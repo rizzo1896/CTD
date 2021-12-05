@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 1000px;
+  background-color: #131313;
+  color: white;
+  margin: 0 auto;
+  /* font-family: ; */
+}
+
+nav {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav .title {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  margin-top: 20px;
+}
